@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+build/
+dist/
+*.spec
+.vscode/
+tech_news_summary.txt
+tech_news_dashboard.html
+ResearchBrief.exe
